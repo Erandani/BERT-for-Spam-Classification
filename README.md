@@ -4,3 +4,5 @@ BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained 
 
 
 BERT can be fine-tuned for text classification by adding a classification layer on top of its pre-trained layers and training the model with labeled data. The fine-tuned BERT model can then be used to predict the category or label for new, unseen text data. BERT has been proven to be very effective for text classification tasks and has set new state-of-the-art performance on several benchmarks.
+
+In this example we use BERT Squencial Classifier for Spam detection.
